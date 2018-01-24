@@ -1,0 +1,87 @@
+body,html
+{
+font-family: Times New Roman;sans-serif;
+//background-color: black;
+color: silver;
+background: url('images.jpe');
+background-size:cover;
+}
+
+#header
+{
+ background: grey;
+ padding: 0px 4px;
+}
+    h1
+	{
+	 color: black;
+	 padding: 0px;
+	}
+	 h2
+	{
+	 color: white;
+	 padding: 20px;
+	}
+	h3
+	{
+	color: ;
+	 padding: 0px;
+	}
+
+ table
+	  {
+	   background: grey;
+	   text-align: center;
+	   color: black;
+	   // border: yellow;
+	  }
+	
+	  
+	  #nav
+     {
+      background: grey;
+       padding:5px 10px;
+	   // position:absolute;
+     }
+	  #nav ul
+        {
+         margin: 0;
+          padding: 0;
+          list-style: none;
+          }
+		   #nav li{
+                       display:inline;
+                       margin: 0;
+                        padding: 0;
+                            }
+	          #nav a:hover
+                        {
+                         background-color:black;
+                        color: aqua;
+                        }
+	  #footer
+	  {
+        background: black;
+          position:absolute;
+		 bottom:0;
+		 width:100%;
+		 margin-top:0px;
+		 padding-top:0px;
+	  }
+	  
+	  a
+	  {
+	  text-decoration:none;
+	  color: black;
+	  }
+	  
+	  a:hover{
+		color:red;
+		text-decoration:none;
+	}	
+	
+
+
+
+
+
